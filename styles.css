@@ -1,0 +1,12 @@
+.prueba {
+  width: 300px;
+  height: 200px;
+  background-color: #3498db; /* Azul */
+  color: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
